@@ -1,1 +1,1 @@
-web: gunicorn WebInase.wsgi
+web: gunicorn WebInase.wsgi --log-file -
